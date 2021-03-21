@@ -1,0 +1,3 @@
+/home/taras/Документы/lp/oop/2/2.4/CMakeFiles/rebuild_cache.dir
+/home/taras/Документы/lp/oop/2/2.4/CMakeFiles/edit_cache.dir
+/home/taras/Документы/lp/oop/2/2.4/CMakeFiles/executeTests.dir

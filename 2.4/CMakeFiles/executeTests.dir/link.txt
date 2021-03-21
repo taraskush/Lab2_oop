@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/executeTests.dir/Lab2.4_test.cpp.o CMakeFiles/executeTests.dir/Vector.cpp.o  -o executeTests  -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

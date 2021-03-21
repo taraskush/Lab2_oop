@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taras/Документы/lp/oop/2/2.5/Lab2.5_test.cpp
+Triad.h
+/home/taras/Документы/lp/oop/2/2.5/Triad.h
+gtest/gtest.h
+-
+
+/home/taras/Документы/lp/oop/2/2.5/Triad.cpp
+Triad.h
+/home/taras/Документы/lp/oop/2/2.5/Triad.h
+
+/home/taras/Документы/lp/oop/2/2.5/Triad.h
+iostream
+-
+string
+-
+sstream
+-
+
